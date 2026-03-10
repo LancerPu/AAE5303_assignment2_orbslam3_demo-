@@ -1,4 +1,4 @@
-# AAE5303 Assignment: Visual Odometry with ORB-SLAM3
+# AAE5303 Assignment: Visual Odometry with ORB-SLAM3 
 
 <div align="center">
 

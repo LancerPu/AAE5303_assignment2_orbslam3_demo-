@@ -329,7 +329,7 @@ This shows that in a relatively stable segment, the coverage can approach 60%, b
 ## 📊 Visualizations
 Full 5 Hz Evaluation Figure
 The following figure is generated using:
-
+![Trajectory Evaluation](figures/trajectory_evaluation.png)
 The four subplots show:
 
 Top-Left: 2D trajectory before alignment (matched poses only), highlighting scale and rotation mismatch typical of monocular VO.
